@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi everyone I'm HR Leong, an electrical engineering student studying at NUS.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Just for fun.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[hrleonghk@gmail.com](mailto:hrleong@gmail.com)
